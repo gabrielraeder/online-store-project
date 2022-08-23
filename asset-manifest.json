@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/online-store-project/static/css/main.073c9b0a.css",
-    "main.js": "/online-store-project/static/js/main.1ea1040e.js",
+    "main.css": "/online-store-project/static/css/main.74753087.css",
+    "main.js": "/online-store-project/static/js/main.d96a2e5a.js",
     "static/js/787.a92fe09e.chunk.js": "/online-store-project/static/js/787.a92fe09e.chunk.js",
-    "static/media/logo.svg": "/online-store-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/elo.png": "/online-store-project/static/media/elo.746d14c882bc8c0864d8.png",
+    "static/media/cart-icon.png": "/online-store-project/static/media/cart-icon.754c776255f2107acf93.png",
+    "static/media/ticket.png": "/online-store-project/static/media/ticket.c286d3b7943119bd635f.png",
+    "static/media/master.png": "/online-store-project/static/media/master.464e653dd400ffcad07e.png",
+    "static/media/uncoloredStar.png": "/online-store-project/static/media/uncoloredStar.b46c50ddbc75be6dfdf2.png",
+    "static/media/coloredStar.png": "/online-store-project/static/media/coloredStar.7f6d8b1bd6ede9aac707.png",
     "index.html": "/online-store-project/index.html",
-    "main.073c9b0a.css.map": "/online-store-project/static/css/main.073c9b0a.css.map",
-    "main.1ea1040e.js.map": "/online-store-project/static/js/main.1ea1040e.js.map",
+    "main.74753087.css.map": "/online-store-project/static/css/main.74753087.css.map",
+    "main.d96a2e5a.js.map": "/online-store-project/static/js/main.d96a2e5a.js.map",
     "787.a92fe09e.chunk.js.map": "/online-store-project/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ea1040e.js"
+    "static/css/main.74753087.css",
+    "static/js/main.d96a2e5a.js"
   ]
 }
