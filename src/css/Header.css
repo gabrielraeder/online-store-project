@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+.head {
+  align-items: center;
+  background-image: linear-gradient(to right, #51197e 5%, #811fd2 30%, rgba(116, 28, 28, 0) 95%);
+  color: white;
+  font-family: 'Michroma', sans-serif;
+  height: 100px;
+  justify-content: space-around;
+  width: 95%;
+  position: fixed;
+  z-index: 2;
+}
+
+.headTitle {
+  height: 100%;
+  width: 260px;
+  color: white;
+}
+
+.titleLink {
+  text-decoration: none;
+}
+
+.navButtons {
+  height: 25px;
+  margin: 5px;
+  border: none;
+  color: white;
+  /* width: 120px; */
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(172, 99, 241);
+  font-weight: 700;
+  box-shadow: 2px 2px 10px 2px rgba(95, 95, 95, 0.507);
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.navButtons:hover {
+  font-weight: 700;
+  color: white;
+  background-color: rgb(131, 5, 250);
+  transform: scale(1.05);
+  box-shadow: 3px 3px 10px 3px rgba(95, 95, 95, 0.507);
+}
+
+.cartButton {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border: none;
+  height: 64px;
+  width: 64px;
+  right: -30px;
+  top: 20px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.cartBtnImage {
+  height: 64px;
+  width: 64px;
+}
+
+.cartQuantity {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: -6px;
+  font-size: 19px;
+  height: 27px;
+  width: 27px;
+  border-radius: 100%;
+  background-color: #d22525;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 700;
+}

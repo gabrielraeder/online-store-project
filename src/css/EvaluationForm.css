@@ -1,0 +1,10 @@
+.invalidFields {
+  color: red;
+  font-size: x-small;
+}
+
+.evalContainer {
+  justify-content: space-around;
+  align-items: baseline;
+  width: 100%;
+}
